@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vineet Jadhav</h1>
-<h3 align="center">A Passionate frontend developer and Designer from India</h3>
+<h3 align="center">A Passionate Full-Stack Engineer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-op&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-op" /> </p>
 
-- 🔭 I’m currently working on **Fronted Developement and UI Designing**
+- 🔭 I develop **User-friendly UI designs and hooked them to backends**
 
-- 🌱 I’m currently learning **React JS, Node JS, Tailwind CSS**
+- 🌱 I’m currently learning **NextJS, NodeJS, Primsa**
 
-- 💬 Ask me about **Javascript , UI Design , Fronted**
+- 💬 Ask me about **Javascript , UI Design, frontend**
 
 - 📫 How to reach me **vineet290403@gmail.com**
 
