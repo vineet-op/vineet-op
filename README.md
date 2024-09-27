@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-op&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-op" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vineet_jadhav29" target="blank"><img src="https://img.shields.io/twitter/follow/vineet_jadhav29?logo=twitter&style=for-the-badge" alt="vineet_jadhav29" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Vineet2OP" target="blank"><img src="https://img.shields.io/twitter/follow/vineet_jadhav29?logo=twitter&style=for-the-badge" alt="Vineet2OP" /></a> </p>
 
 - 🔭 I’m currently working on **ReactNative and NextJS**
 
