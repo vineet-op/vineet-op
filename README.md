@@ -15,8 +15,6 @@
 
 - 👨‍💻 Visit My Portfolio [https://vineetdev.vercel.app/](https://vineetdev.vercel.app/)
 
-- 📝 I Do Write Sometimes [https://vineet-op.hashnode.dev/](https://vineet-op.hashnode.dev/)
-
 - 💬 Ask me about **UI Design, Frontend, Backend**
 
 - 📫 How to reach me **vineet290403@gmail.com**
