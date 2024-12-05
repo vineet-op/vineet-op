@@ -5,8 +5,8 @@
 
 <p align="left"> 
   <a href="https://twitter.com/Vineet2OP" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vineet_jadhav29?logo=twitter&style=for-the-badge" alt="Vineet2OP" />
-  </a> 
+    <img src="https://img.shields.io/twitter/follow/Vineet2OP?logo=twitter&style=for-the-badge" alt="Vineet2OP" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **ReactNative and NextJS**
