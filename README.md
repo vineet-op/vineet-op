@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native, Next JS and Web3.0**
 
-- 👨‍💻 Visit My Portfolio [https://vineetdev.vercel.app/](https://vineetdev.vercel.app/)
+- 👨‍💻 Visit My Portfolio [https://www.vineetop.xyz/](https://www.vineetop.xyz)
 
 - 💬 Ask me about **UI Design, Frontend, Backend**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/vineet_jadhav29" target="blank">
+  <a href="https://twitter.com/Vineet2OP" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vineet_jadhav29" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/vineet-op" target="blank">
