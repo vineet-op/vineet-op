@@ -1,25 +1,20 @@
-<h1 align="center">Hi👋, I'm Vineet Jadhav 🦉</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hello Developers👋, I'm Vineet 🦉</h1>
+<h3 align="center">A Passionate full-stack engineer based in India ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-op&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-op" /> </p>
-
 <p align="left"> 
   <a href="https://twitter.com/Vineet2OP" target="blank">
     <img src="https://img.shields.io/twitter/follow/Vineet2OP?logo=twitter&style=for-the-badge" alt="Vineet2OP" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **ReactNative and NextJS**
+Hey there! 👋
+I’m a CSE grad with 1+ year of experience in frontend development, and I can handle the fullstack grind too! I love tinkering between design and code, crafting sleek UIs, and building apps that just work.
 
-- 🌱 I’m currently learning **React Native, Next JS and Web3.0**
+⚡ Fun fact: I binge-watch Anime 🏯 and play football ⚽ when I’m not coding. Let’s create something awesome together! 🚀
 
-- 👨‍💻 Visit My Portfolio [https://www.vineetop.xyz/](https://www.vineetop.xyz)
 
-- 💬 Ask me about **UI Design, Frontend, Backend**
 
-- 📫 How to reach me **vineet290403@gmail.com**
-
-- ⚡ Fun fact **I binge watch Anime🏯 and Play Football⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
