@@ -9,7 +9,7 @@
 </p>
 
 Hey there! 👋
-I’m a CSE grad with 1+ year of experience in frontend development, and I can handle the fullstack grind too! I love tinkering between design and code, crafting sleek UIs, and building apps that just work.
+I’m a CSE grad experienced in frontend development, and I can handle the fullstack grind too! I love tinkering between design and code, crafting sleek UIs, and building apps that just work.
 
 ⚡ Fun fact: I binge-watch Anime 🏯 and play football ⚽ when I’m not coding. Let’s create something awesome together! 🚀
 
