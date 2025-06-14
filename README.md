@@ -1,12 +1,12 @@
-<h1 align="center">Nasmaste Everyone 🙌</h1>
+<h2 align="left">Nasmaste Everyone 🙌</h2>
 
 ###
 
-<h3 align="left">I'm Vineet, a frontend/full-stack developer based in India ♥️<br>I Build Products for the Web and love to solve problems 🙌<br>Currently I'm exploring Web3 tinkering around Ethereum Ecosystem🪙</h3>
+<h4 align="left">I'm Vineet, a frontend/full-stack developer based in India ♥️<br>I Build Products for the Web and love to solve problems 🙌<br>Currently I'm exploring Web3 tinkering around Ethereum Ecosystem🪙</h4>
 
 ###
 
-<h3 align="left">My Tech-Toolkit</h3>
+<h4 align="left">My Tech-Toolkit</h4>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Follow Me Here, Drop a Hi 🤝</h3>
+<h4 align="left">Follow Me Here, Drop a Hi 🤝</h4>
 
 ###
 
@@ -49,20 +49,7 @@
   </a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">My Favourite Quote ♥️</h2>
-
-###
-
 <div align="center">
   <img height="800" src="https://i.redd.it/1nuwusrxhw141.jpg"  />
 </div>
