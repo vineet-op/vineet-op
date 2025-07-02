@@ -27,20 +27,32 @@ When I’m not in dev mode you’ll find me reading, gaming, or watching anime a
 **Backend & Database**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
 
-**DevOps**  
+**Others**  
 <img src="https://skillicons.dev/icons?i=docker" />
-
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  
 ---
 
-### 📲 I Post on X Tooo
+### 📲 Socials (Most Active on Twitter)
 
 <div align="left">
-  <a href="https://twitter.com/Vineet2OP" target="_blank">
+    <a href="https://twitter.com/Vineet2OP" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" title="Twitter" />
+  </a>
+  
+  <a href="https://www.vineetop.xyz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" title="Portfolio" />
+  </a>
+
+
+  <a href="https://linkedin.com/in/vineet-op" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
+  </a>
+
+  <a href="mailto:vineetworks29@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Email Me" />
   </a>
 </div>
 
 
-<!--
-"Design with empathy. Build with precision."
--->
+
