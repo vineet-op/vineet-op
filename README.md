@@ -12,8 +12,8 @@
 Frontend Developer based in India🌟  
 I build fast, accessible UIs that blend design with code.
 
-When I’m not in dev mode
-de, you’ll find me reading, gaming, or watching anime and football ⚽❤️
+### 🚀 Fun Fact 
+When I’m not in dev mode you’ll find me reading, gaming, or watching anime and football ⚽❤️
 
 
 
