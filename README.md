@@ -1,6 +1,7 @@
-<p align="left">
+
+<p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/ac009f8f-7609-45ce-94e2-2258e022dc34" 
+    src="https://i.pinimg.com/736x/d2/e0/b0/d2e0b08a7a7727e63b1820ee036778f9.jpg" 
     alt="Tobi" 
     style="border-radius: 50px; width: 100%;" 
   />
